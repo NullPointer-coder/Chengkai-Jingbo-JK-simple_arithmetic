@@ -1,4 +1,4 @@
-# cs501Group
+# Chengkai-Jingbo-JK-simple_arithmetic
 ## Team Name:
 
 JK
